@@ -1,6 +1,6 @@
-import img1 from "../../../../images/Portfolio/Print/hablemosdesexo.png";
-import img2 from "../../../../images/Portfolio/Print/elsueñodelalegalidad.png";
-import img3 from "../../../../images/Portfolio/Print/enseñalesamanejarelbullying.png";
+import img1 from "../../../../images/Portfolio/Print/hablemosdesexo.jpg";
+import img2 from "../../../../images/Portfolio/Print/elsueñodelalegalidad.jpg";
+import img3 from "../../../../images/Portfolio/Print/enseñalesamanejarelbullying.jpg";
 import "../../../../App.css";
 
 export const translationFiles = [
